@@ -17,5 +17,5 @@ Note, each of the files act as a class aiming to develop one of the fractal patt
 
 Another reason this project is extremely important is, from this we can show that everything in the world could possibly have a patter as the images are realistic, scenic. Note, the random function was used in some places, although you must know that the random function itself is generated from a deeply convoluted formula, hence not being truly random.
 
-This says something very intersting about our world!
+This says something very intersting about the world we live in!
 :grimacing:
