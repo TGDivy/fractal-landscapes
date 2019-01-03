@@ -14,4 +14,7 @@ Here is one of the final images generated below. ![Final Image](https://github.c
 
 Note, each of the files act as a class aiming to develop one of the fractal patterns. Finally, all the fractals.hs file combines all them to generate some beautiful images like the one above.
 
+Another reason this project is extremely important is, from this we can show that everything in the world could possibly have a patter as the images are realistic, scenic. Note, the random function was used in some places, although you must know that the random function itself is generated from a deeply convoluted formula, hence not being truly random.
 
+This says something very intersting about our world!
+:grimacing:
