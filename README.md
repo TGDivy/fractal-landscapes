@@ -8,7 +8,7 @@ Moreover, it also demonstrates the power of Haskell, as the ease with which the 
 
 Please take look a deeper look at all the project details in the [presentation file](https://github.com/TGDivy/Fractals-in-Haskell/blob/master/Haskell%20Competition.pdf) in this repository.
 
-Here is one of the final images generated below. [Final Image](https://github.com/TGDivy/Fractals-in-Haskell/blob/master/Final.png?raw=true)
+Here is one of the final images generated below. ![Final Image](https://github.com/TGDivy/Fractals-in-Haskell/blob/master/Final.png?raw=true)
 
 ##Guidlines on Using the repository.
 
