@@ -11,7 +11,7 @@ Please take look a deeper look at all the project details in the [presentation f
 ## Guidlines on Using the repository.
 
 Note, each of the files act as a class aiming to develop one of the fractal patterns. Finally, all the fractals.hs file combines all them to generate some beautiful images like the one below.
-![Final Image](https://github.com/TGDivy/Fractals-in-Haskell/blob/master/Final.png?raw=true)
+![Final Image](Final.png)
 
 ### An Intersting Observation.
 
